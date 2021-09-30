@@ -14,9 +14,8 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: govtechschool.de
-  theme: dark
+  theme: night
   # baseUrl: /your-repo-name
-  logoUrl: https://campus.govtechschool.de/og-image.png
   favicon: https://campus.govtechschool.de/favicon.png
   name: GovTechSchool
   introTitle: Themis uptime service title
