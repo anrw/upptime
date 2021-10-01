@@ -24,6 +24,11 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+assignees:
+  - anrw
+  - VladislavNahaba
+  - AlexYooP
+  - themis-digital
 
 workflowSchedule:
   graphs: "0 0 * * *"
