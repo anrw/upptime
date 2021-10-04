@@ -40,19 +40,19 @@
     "url": "https://backend.govtechschool.de/admin",
     "icon": "https://favicons.githubusercontent.com/backend.govtechschool.de",
     "slug": "backend",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 943,
-    "timeDay": 978,
-    "timeWeek": 943,
-    "timeMonth": 943,
-    "timeYear": 943,
+    "status": "up",
+    "uptime": "99.93%",
+    "uptimeDay": "99.70%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
+    "time": 1051,
+    "timeDay": 1612,
+    "timeWeek": 1051,
+    "timeMonth": 1051,
+    "timeYear": 1051,
     "dailyMinutesDown": {
-      "2021-10-04": 0
+      "2021-10-04": 4
     }
   }
 ]
