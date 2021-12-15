@@ -25,9 +25,9 @@
     "url": "https://studio.govtechschool.de",
     "icon": "https://favicons.githubusercontent.com/studio.govtechschool.de",
     "slug": "studio",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -36,7 +36,9 @@
     "timeWeek": 217,
     "timeMonth": 249,
     "timeYear": 248,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-12-15": 0
+    }
   },
   {
     "name": "Backend",
